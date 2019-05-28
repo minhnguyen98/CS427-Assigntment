@@ -1,0 +1,4 @@
+Git folder link: https://github.com/minhnguyen98/CS427-Assigntment/tree/master/A01 
+Members:
+Nguyen Vu Quang Minh - 1651065
+Le Duong Cong Duc - 1651044
