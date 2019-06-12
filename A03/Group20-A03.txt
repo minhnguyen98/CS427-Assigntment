@@ -1,0 +1,8 @@
+github link
+https://github.com/minhnguyen98/CS427-Assigntment
+
+Built game folder
+https://github.com/minhnguyen98/CS427-Assigntment/tree/master/A03
+
+Unity project folder (with git ignore)
+https://github.com/minhnguyen98/CS427-Assigntment/tree/master/A03_Project
